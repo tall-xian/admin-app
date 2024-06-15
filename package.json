@@ -16,6 +16,7 @@
     "@vitejs/plugin-legacy": "^5.4.1",
     "@vitejs/plugin-vue": "^5.0.4",
     "postcss-pxtorem": "^6.1.0",
+    "terser": "^5.31.1",
     "typescript": "^5.2.2",
     "unplugin-auto-import": "^0.17.6",
     "unplugin-vue-components": "^0.27.0",
