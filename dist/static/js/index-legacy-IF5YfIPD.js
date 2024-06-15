@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CYFW9slz.js","./@vue-legacy-C59QWSSn.js","./vue-router-legacy-Ape4yU7y.js"],(function(e,t){"use strict";var r,u,n;return{setters:[e=>{r=e._},e=>{u=e.j,n=e.o},null],execute:function(){e("default",r({},[["render",function(e,t){return n(),u("h1",null,"设置")}]]))}}}));

@@ -1,0 +1,1 @@
+import{_ as r}from"./index-BIa_8ubP.js";import{j as o,o as e}from"./@vue-DpFLg-dW.js";import"./vue-router-BkWed5Fi.js";const t=r({},[["render",function(r,t){return e(),o("h1",null,"登录")}]]);export{t as default};
